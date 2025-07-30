@@ -3,11 +3,9 @@ WaiteringSystem
 A Windows Forms application for managing restaurant employee data, built with C# and .NET Framework 4.8.
 
 Overview
-
 The WaiteringSystem is a desktop application designed to manage restaurant staff information including waiters, runners, and head waiters. The application provides a user-friendly interface for adding, viewing, and managing employee records with different roles and compensation structures. Was created for course assignment.
 
 Features
-
 - Employee Management: Add, view, and manage restaurant employees
 - Role-Based System : Support for different employee roles:
   -Head Waiter: Salary-based compensation
